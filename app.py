@@ -10,7 +10,7 @@ plt.rcParams.update({
     "axes.labelcolor": INK, "font.size": 10,
 })
 
-DATA = "Airbnb_listing.csv"
+DATA = "Airbnb_listing copy.csv"
 
 st.set_page_config(page_title="NYC Airbnb pricing", layout="wide")
 
